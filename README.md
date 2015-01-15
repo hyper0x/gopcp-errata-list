@@ -1,4 +1,4 @@
-# gopcp-errata_list
+# gopcp-errata-list
 
 A errata list of book 'Go Programming &amp; Concurrency in Practice'.
 
